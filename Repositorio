@@ -1,0 +1,6 @@
+mkdir primerRepositorio
+cd primerRepositorio
+touch inicio.php
+touch contacto.php
+touch preguntas.php
+git init
